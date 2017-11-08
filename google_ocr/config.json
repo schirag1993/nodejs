@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "chiragimagetotext",
+  "RESULT_BUCKET": "chiragocrresult",
+  "TRANSLATE_TOPIC": "chiragtranslatetopic",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
